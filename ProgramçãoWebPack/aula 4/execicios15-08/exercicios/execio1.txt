@@ -1,0 +1,21 @@
+<html> 
+<head>
+
+
+	<title>  Gastronomia brasileira </title>
+
+</head>
+<body> 
+<font size=" 6 "> <!-- Tamanho da Fonte  os tamanhos vão de 1 à 7 -->
+ 
+<font color="#006400"> <!--Número da cor que vc que veja a tabela de cores em HTML --> 
+	                     <big>      <center><i> gastronomia brasileira </i></big></center>
+</font></font>
+	
+	<hr size="15"color="#2F4F4F">
+<center>
+	<img src="churrasco-gaucho.gif">
+<center>
+	
+</body>
+</html>

@@ -1,0 +1,5 @@
+exercicio
+1)construa uma tabela com as seguintes divisões o texto severá seguir os alinhamentos indicados pela.
+a borda da tabela dever´ser colorida , assim como cada célula de uma cor diferente
+2)construa uma frame com as seguintes estrura
+no f1 cloque uma pag com link que devem abrir no f3 quando selecionos

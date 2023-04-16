@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>links</title>
+</head>
+<body>
+<a href = "tabela.html" target ="f7">Tabela</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

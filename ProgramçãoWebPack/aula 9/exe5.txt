@@ -1,0 +1,14 @@
+<html> 
+<head> 
+<style type="text/css"> 
+<!-- 
+p { font: italic small-caps bold 14px 
+"Comic Sans MS", sans-serif;
+} 
+--> 
+</style> 
+</head> 
+<body> 
+<p>Parágrafo em declaração única</p> 
+</body> 
+</html>

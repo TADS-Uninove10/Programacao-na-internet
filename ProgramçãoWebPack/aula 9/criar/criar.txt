@@ -1,0 +1,21 @@
+<html> 
+<head> 
+<style type="text/css">
+ <!--
+body {color:green;font-style: arial;background:#FFC8D7;}
+h1 {color: Yellow;background:black;font-style: verdana;} 
+h2 {color: red;background:black;font-style: verdana;}
+
+
+p {color:blue; background:green; font-style: "times new roman";}  
+
+--> 
+</style> 
+</head> 
+<body> 
+</h2> <center> <p>Parágrafo com letras azuis</p> </center>
+<h1><center>Cabeçalho com letras vermelhas</center></h1> 
+<h2><center>Cabeçalho com letras verdes</center></h2>
+text do body
+</body> 
+</html>

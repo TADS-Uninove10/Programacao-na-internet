@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>exer a/title>
+</head>
+<body>
+
+<table border ="2" >
+
+<td rowspan ="4" > celula com 4colunas</td>
+
+<td> 1</td>
+<td> 2</td>
+<td> 3</td>
+<td> 4</td>
+<tr>
+<td rowspan ="2"> 5</td>
+<td> 6</td>
+<td> 7</td>
+<tr>
+<td>col 2</td>
+<td>col 3</td>
+<td>col 4</td>
+<tr>
+<td>col 1</td>
+<td>col 2</td>
+<td>col 3</td>
+<td>col 4</td>
+
+
+</table>
+
+</body>
+</html>

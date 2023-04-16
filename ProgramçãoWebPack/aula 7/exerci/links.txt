@@ -1,0 +1,21 @@
+<html>
+<head></head>
+<body>
+
+<a href="http://www.google.com.br/"target="f3">google</a>
+<br>
+<br>
+<a href="http://br.yahoo.com/"target="f3">yahoo</a>
+<br>
+<br>
+<a href="http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"target="f3">wikipedia</a>
+<a href="formularios.html" target="f3">curriculo.html</a>
+<br>
+<br>
+
+
+ 
+
+
+</body>
+</html>

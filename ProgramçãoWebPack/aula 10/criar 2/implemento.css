@@ -1,0 +1,28 @@
+h1 {
+color: Yellow;background:black;font-style:"times new roman";
+} 
+h2 {
+color: red;background:black;font-style:"times new roman";
+}
+
+
+p {
+color:Cyan; background:green; font-style: "times new roman";
+}  
+body {
+color:green;font-style:"times new roman";background:"#00FF7F";font-size:xx-large;
+
+
+}
+table {background:green;font-size:300%;margin-left: 25%; ;
+margin-top: 10%;text-align:center;
+;
+
+}
+td{background:yellow;
+}
+th{background:blue;
+}
+a {font-size:xx-large;
+}
+span{background:black;font-style:"times new roman";font-size:150%;}

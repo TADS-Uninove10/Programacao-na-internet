@@ -1,0 +1,21 @@
+<html> 
+<head> 
+<style type="text/css"> 
+<!--
+.p1 { font: status-bar; 
+} 
+.p2 { 
+font: inherit; 
+.p3 { 
+font: small-caption ; 
+} 
+} 
+--> 
+</style> 
+</head> 
+<body> 
+<p class="p1">Parágrafo com fonte status-bar</p> 
+<p class="p2">Parágrafo com fonte inherit</p> 
+<p class="p3">Parágrafo com fonte small-caption</p> 
+</body> 
+</html>

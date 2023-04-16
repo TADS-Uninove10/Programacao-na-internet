@@ -1,0 +1,38 @@
+<html>
+<head><title>exer a </title></head>
+<frameset rows = "50%,50%">
+
+
+<frameset cols = "40%,30%,30%">
+
+<frameset rows = "50%,50%">
+<frame src = ""name ="f1">
+<frameset cols = "50%,50%">
+<frame src = ""name ="f2">
+<frame src = ""name ="f3">
+
+</frameset>
+</frameset>
+
+
+<frame src = ""name ="f4">
+<frame src = ""name ="f5">
+
+</frameset>
+
+
+<frameset cols = "30%,30%,40%">
+<frame src = ""name ="f6">
+<frame src = ""name ="f7">
+<frameset cols = "50%,50%>
+
+<frame src = ""name ="f8">
+<frame src = ""name ="f9">
+
+
+
+</frameset>
+</frameset>
+</frameset>
+
+</html>
